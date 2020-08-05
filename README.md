@@ -1,8 +1,8 @@
 # Gene-Nucleotides-Python_Counter-with-"Re_Library"
 
-Python Script
+Python Script - this repo comes with 2 inputs files (TTN gene and APC gene).
 
-Input: fasta file with a gene's nucleotide sequence. 
+Input: Fasta file with a gene's nucleotide sequence. 
 
 Output: 
         
