@@ -5,6 +5,7 @@ Python Script
 Input: fasta file with a gene's nucleotide sequence. 
 
 Output: 
+        
         Total nucleotides (ACTG).
         
         Adenosine Percentage in the gene.
