@@ -1,4 +1,4 @@
-# Gene-Nucleotides-Python_Counter-with-"Re_Library"
+# FINDING GENE's LONGEST NUCLEOTIDES SEQUENCES using "Re_Library".
 
 Python Script - this repo comes with 2 inputs files (TTN gene and APC gene).
 
