@@ -16,4 +16,4 @@ Output:
         Re (regular expressions) library application:
         
           The script checks the longest sequence of repeated nucleotides for each of the A, C, T and G nucleotides. 
-          It also checks the times the longest sequence appears in the gene. 
+          It tells how long is that sequence, and also checks the times it appears in the gene. 
